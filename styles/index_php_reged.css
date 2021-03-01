@@ -1,0 +1,34 @@
+h2{
+	color: white;
+	padding-top: 20px;
+}
+body{
+	background: #c8ccce;
+}
+.avt a {
+	background: grey;
+  display: block;
+  padding: 1rem;
+  position: relative;
+  text-decoration: none;
+  transition-duration: 0.5s;
+  z-index: 100;
+  text-decoration: none;
+  color: white;
+}
+.avt a:hover {
+	background: #c8ccce;
+	cursor: pointer;
+
+}
+.avt{
+	text-align: center;
+	border-radius: 20px;
+	background: grey; 
+	position: absolute; 
+  top: 48%;
+  left: 50%;
+  width: 400px;
+  height: 430px;
+  margin: -160px 0 0 -200px;
+}
